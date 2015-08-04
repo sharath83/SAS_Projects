@@ -1,0 +1,327 @@
+"Latest value(s)",,,,"Agricultural water withdrawal (10^9 m3/year)",,,,"Industrial water withdrawal (10^9 m3/year)",,,,"Municipal water withdrawal (10^9 m3/year)",,,,"Total water withdrawal (10^9 m3/year)",,,,"Total water withdrawal per capita (m3/inhab/year)",,
+"1960-2015","Algeria","World | Africa",2001,3.502,"L","[1]",2005,0.9509,"L",,2005,1.581,"L",,2001,5.723,"L",,2001,175.7,"K",
+"1960-2015","Angola","World | Africa",2005,0.1467,"L","[2]",2005,0.2396,"L",,2005,0.3195,"L",,2005,0.7058,"L",,2005,39.85,"K",
+"1960-2015","Benin","World | Africa",2001,0.059,"I",,2001,0.03,"I",,2001,0.041,"",,2001,0.13,"I",,2001,17.53,"K",
+"1960-2015","Botswana","World | Africa",2000,0.08,"","[3]",2005,0.0389,"L",,2005,0.0878,"L",,2000,0.194,"",,2000,107.2,"K",
+"1960-2015","Burkina Faso","World | Africa",2005,0.4207,"L",,2005,0.0217,"L",,2005,0.3756,"L",,2005,0.818,"L",,2005,57.46,"K",
+"1960-2015","Burundi","World | Africa",2000,0.222,"I",,2005,0.015,"L",,2005,0.0431,"L",,2000,0.288,"I",,2000,40.92,"K",
+"1960-2015","Cameroon","World | Africa",2000,0.737,"L","[4]",2005,0.1046,"L",,2005,0.2468,"L",,2000,0.9664,"L",,2000,57.59,"K",
+"1960-2015","Cape Verde","World | Africa",2004,0.025,"L","[5]",2001,4.0E-4,"",,2001,0.0016,"",,2001,0.022,"I",,2001,47.93,"K",
+"1960-2015","Central African Republic","World | Africa",2005,4.0E-4,"L","[6,7]",2005,0.012,"L",,2005,0.0601,"L",,2005,0.0725,"L",,2005,17.65,"K",
+"1960-2015","Chad","World | Africa",2005,0.6722,"L","[8,9]",2005,0.1037,"L",,2005,0.1037,"L",,2005,0.8796,"L",,2005,82.25,"K",
+"1960-2015","Comoros","World | Africa",1999,0.0047,"",,1999,5.0E-4,"",,1999,0.0048,"",,1999,0.01,"",,1999,17.99,"K",
+"1960-2015","Congo","World | Africa",2002,0.004,"I",,2005,0.024,"L",,2005,0.0637,"L",,2002,0.046,"I",,2002,14.01,"K",
+"1960-2015","Côte d'Ivoire","World | Africa",2008,0.5953,"L","[10]",2005,0.318,"L",,2005,0.6359,"L",,2005,1.549,"L",,2005,86.3,"K",
+"1960-2015","Democratic Republic of the Congo","World | Africa",2005,0.0719,"L","[11,12]",2005,0.1468,"L",,2005,0.4649,"L",,2005,0.6836,"L",,2005,11.95,"K",
+"1960-2015","Djibouti","World | Africa",2000,0.003,"","[13]",2000,0.0,"",,2000,0.016,"",,2000,0.019,"",,2000,25.54,"K",
+"1960-2015","Egypt","World | Africa",2000,59.0,"",,2000,4.0,"","[14]",2000,5.3,"",,2000,68.3,"",,2000,1000.0,"K",
+"1960-2015","Equatorial Guinea","World | Africa",2000,0.001,"L",,2005,0.003,"L",,2005,0.0158,"L",,2000,0.0174,"L",,2000,31.58,"K",
+"1960-2015","Eritrea","World | Africa",2004,0.55,"",,2004,0.001,"",,2004,0.031,"",,2004,0.582,"",,2004,111.7,"K",
+"1960-2015","Ethiopia","World | Africa",2002,5.204,"I",,2005,0.0511,"L",,2005,0.81,"L",,2002,5.558,"I",,2002,79.46,"K",
+"1960-2015","Gabon","World | Africa",2005,0.0403,"L","[15,16]",2005,0.0141,"L",,2005,0.0847,"L",,2005,0.1391,"L",,2005,96.13,"K",
+"1960-2015","Gambia","World | Africa",1999,0.0392,"L","[17]",2005,0.0212,"L",,2005,0.0412,"L",,2000,0.0905,"L",,2000,69.24,"K",
+"1960-2015","Ghana","World | Africa",2000,0.652,"I",,2000,0.095,"I",,2000,0.235,"I",,2000,0.982,"I",,2000,49.63,"K",
+"1960-2015","Guinea","World | Africa",2001,0.2929,"L","[18]",2005,0.0562,"L",,2005,0.2248,"L",,2001,0.5533,"L",,2001,61.17,"K",
+"1960-2015","Guinea-Bissau","World | Africa",2000,0.144,"",,2005,0.0119,"L",,2005,0.0341,"L",,2000,0.175,"",,2000,131.5,"K",
+"1960-2015","Kenya","World | Africa",2003,2.165,"I",,2003,0.1,"",,2003,0.47,"",,2003,2.735,"I",,2003,72.45,"K",
+"1960-2015","Lesotho","World | Africa",1999,0.0038,"L","[19]",2000,0.02,"L",,2000,0.02,"L",,2000,0.0438,"L",,2000,23.24,"K",
+"1960-2015","Liberia","World | Africa",2000,0.0123,"L","[20]",2005,0.0534,"L",,2005,0.0802,"L",,2000,0.1308,"L",,2000,42.59,"K",
+"1960-2015","Libya","World | Africa",2000,3.584,"",,2000,0.132,"",,2000,0.61,"",,2000,4.326,"",,2000,810.1,"K",
+"1960-2015","Madagascar","World | Africa",2000,16.13,"L","[21]",2005,0.1619,"L",,2005,0.2956,"L",,2000,16.5,"L",,2000,985.9,"K",
+"1960-2015","Malawi","World | Africa",2005,1.166,"L","[22,23]",2005,0.0477,"L",,2005,0.1431,"L",,2005,1.357,"L",,2005,98.95,"K",
+"1960-2015","Mali","World | Africa",2006,5.075,"",,2006,0.004,"",,2006,0.107,"","[24]",2006,5.186,"",,2006,407.5,"K",
+"1960-2015","Mauritania","World | Africa",2004,1.223,"L","[25]",2005,0.0318,"L",,2005,0.0954,"L",,2005,1.35,"L",,2005,405.4,"K",
+"1960-2015","Mauritius","World | Africa",2003,0.491,"",,2003,0.02,"",,2003,0.214,"",,2003,0.725,"",,2003,594.3,"K",
+"1960-2015","Morocco","World | Africa",2010,9.156,"",,2010,0.212,"",,2010,1.063,"",,2010,10.43,"",,2010,320.7,"K",
+"1960-2015","Mozambique","World | Africa",2001,0.69,"L","[26]",2005,0.0362,"L",,2005,0.2537,"L",,2001,0.8842,"L",,2001,45.77,"K",
+"1960-2015","Namibia","World | Africa",2002,0.201,"",,2000,0.014,"","[27]",2000,0.073,"","[28]",2002,0.288,"",,2002,147.1,"K",
+"1960-2015","Niger","World | Africa",2005,0.6565,"L","[29]",2012,0.0137,"","[30]",2012,0.0617,"",,2005,0.9836,"L",,2005,69.28,"K",
+"1960-2015","Nigeria","World | Africa",2004,7.047,"L","[31]",2005,1.965,"L",,2005,4.099,"L",,2005,13.11,"L",,2005,89.07,"K",
+"1960-2015","Rwanda","World | Africa",2000,0.102,"",,2005,0.0205,"L",,2005,0.0614,"L",,2000,0.15,"",,2000,16.69,"K",
+"1960-2015","Sao Tome and Principe","World | Africa",,,"",,,,"",,,,"",,1993,0.007,"",,1993,52.24,"K",
+"1960-2015","Senegal","World | Africa",2002,2.065,"I",,2002,0.058,"I",,2002,0.098,"I",,2002,2.221,"I",,2002,213.8,"K",
+"1960-2015","Seychelles","World | Africa",2003,9.0E-4,"I",,2005,0.0038,"L",,2005,0.009,"L",,2005,0.0137,"I",,2005,153.9,"K",
+"1960-2015","Sierra Leone","World | Africa",2005,0.0457,"L","[32,33]",2005,0.0555,"L",,2005,0.111,"L",,2005,0.2122,"L",,2005,39.18,"K",
+"1960-2015","Somalia","World | Africa",2003,3.281,"I",,2003,0.002,"I",,2003,0.015,"I",,2003,3.298,"I",,2003,370.1,"K",
+"1960-2015","South Africa","World | Africa",2000,7.836,"",,2005,0.9475,"L",,2005,4.893,"L",,2000,12.5,"",,2000,270.6,"K",
+"1960-2015","South Sudan","World | Africa",2011,0.24,"",,2011,0.225,"",,2011,0.193,"",,2011,0.658,"",,2011,60.71,"K",
+"1960-2015","Sudan","World | Africa",2011,25.91,"",,2011,0.075,"",,2011,0.95,"",,2011,26.93,"",,2011,724.0,"K",
+"1960-2015","Swaziland","World | Africa",2000,1.006,"I","[34]",2005,0.0207,"L",,2005,0.0413,"L",,2000,1.042,"I",,2000,963.0,"K",
+"1960-2015","Togo","World | Africa",2002,0.076,"",,2005,0.0063,"L",,2005,0.1407,"L",,2002,0.169,"",,2002,32.98,"K",
+"1960-2015","Tunisia","World | Africa",2011,2.644,"I","[35]",2011,0.165,"I","[36]",2011,0.496,"I","[37,38]",2011,3.305,"I",,2011,303.9,"K",
+"1960-2015","Uganda","World | Africa",2008,0.259,"",,2008,0.05,"",,2008,0.328,"",,2008,0.637,"",,2008,17.53,"K",
+"1960-2015","United Republic of Tanzania","World | Africa",2002,4.632,"K","[39]",2002,0.025,"I",,2002,0.527,"K","[40]",2002,5.184,"K",,2002,144.8,"K",
+"1960-2015","Zambia","World | Africa",2002,1.152,"L","[41]",2000,0.13,"L",,2000,0.29,"L",,2002,1.572,"L",,2002,148.0,"K",
+"1960-2015","Zimbabwe","World | Africa",2002,3.318,"","[42]",2002,0.298,"",,2002,0.589,"",,2002,4.205,"",,2002,332.6,"K",
+"1960-2015","Antigua and Barbuda","World | Americas",2012,0.0018,"",,2012,0.0025,"",,2012,0.0072,"",,2012,0.0115,"",,2012,129.2,"K",
+"1960-2015","Argentina","World | Americas",2011,27.93,"",,2011,4.0,"",,2011,5.85,"",,2011,37.78,"",,2011,919.5,"K",
+"1960-2015","Bahamas","World | Americas",,,"",,,,"",,2013,0.031,"I",,,,"",,,,"",
+"1960-2015","Barbados","World | Americas",2005,0.0548,"L","[43,44]",2005,0.0062,"I",,2005,0.02,"I",,2005,0.081,"I",,2005,293.5,"K",
+"1960-2015","Belize","World | Americas",2000,0.0684,"I",,2000,0.0212,"",,2000,0.0114,"",,2000,0.101,"",,2000,400.8,"K",
+"1960-2015","Bolivia (Plurinational State of)","World | Americas",2008,1.92,"I",,2009,0.032,"",,2009,0.136,"",,2009,2.088,"I",,2009,198.9,"K",
+"1960-2015","Brazil","World | Americas",2010,44.9,"",,2010,12.72,"",,2010,17.21,"",,2010,74.83,"",,2010,376.7,"K",
+"1960-2015","Canada","World | Americas",2010,4.749,"L","[45,46]",2007,33.12,"E",,2007,5.878,"E",,2009,38.8,"E",,2009,1114.0,"E",
+"1960-2015","Chile","World | Americas",2006,29.42,"",,2006,4.744,"",,2006,1.267,"",,2006,35.43,"",,2006,2126.0,"K",
+"1960-2015","Colombia","World | Americas",2008,6.391,"I",,2008,2.242,"","[47]",2008,3.134,"","[48]",2008,11.77,"I",,2008,246.7,"K",
+"1960-2015","Costa Rica","World | Americas",2013,1.33,"",,2013,0.26,"",,2013,0.76,"",,2013,2.35,"",,2013,482.3,"K",
+"1960-2015","Cuba","World | Americas",2013,4.519,"",,2013,0.74,"",,2013,1.7,"",,2013,6.959,"","[49]",2013,617.7,"K",
+"1960-2015","Dominica","World | Americas",2010,0.001,"I",,2010,0.0,"I",,2010,0.019,"I",,2010,0.02,"I",,2010,277.8,"K",
+"1960-2015","Dominican Republic","World | Americas",2010,5.715,"",,2010,0.586,"",,2010,0.855,"",,2010,7.156,"",,2010,696.3,"K",
+"1960-2015","Ecuador","World | Americas",2005,8.076,"L","[50,51]",2005,0.549,"L",,2005,1.293,"L",,2005,9.918,"L",,2005,695.1,"K",
+"1960-2015","El Salvador","World | Americas",2005,1.431,"",,2005,0.213,"",,2005,0.474,"",,2005,2.118,"",,2005,345.9,"K",
+"1960-2015","Grenada","World | Americas",2014,0.0021,"I",,2014,0.0,"I",,2014,0.012,"I",,2014,0.0141,"I",,2014,133.0,"K",
+"1960-2015","Guatemala","World | Americas",2006,1.886,"","[52]",2006,0.6031,"",,2006,0.835,"",,2006,3.324,"",,2006,249.6,"K",
+"1960-2015","Guyana","World | Americas",2010,1.363,"L","[53]",2010,0.0204,"I",,2010,0.0613,"I",,2010,1.445,"I",,2010,1818.0,"K",
+"1960-2015","Haiti","World | Americas",2009,1.209,"L","[54]",2009,0.051,"L",,2009,0.19,"L",,2009,1.45,"L",,2009,142.5,"K",
+"1960-2015","Honduras","World | Americas",2003,1.178,"",,2003,0.114,"",,2003,0.315,"",,2003,1.607,"","[55]",2003,223.9,"K",
+"1960-2015","Jamaica","World | Americas",2007,0.448,"L",,2005,0.076,"I",,2005,0.288,"I",,2007,0.812,"I",,2007,299.9,"K",
+"1960-2015","Mexico","World | Americas",2011,61.58,"",,2011,7.28,"",,2011,11.44,"",,2011,80.3,"",,2011,664.5,"K",
+"1960-2015","Nicaragua","World | Americas",2011,1.185,"",,2008,0.0736,"I",,2008,0.286,"",,2011,1.545,"I",,2011,257.8,"K",
+"1960-2015","Panama","World | Americas",2010,0.446,"",,2010,0.01,"",,2010,0.581,"",,2010,1.037,"",,2010,272.8,"K",
+"1960-2015","Paraguay","World | Americas",2012,1.897,"I",,2008,0.154,"I",,2011,0.362,"I",,2012,2.413,"I",,2012,360.8,"K",
+"1960-2015","Peru","World | Americas",2008,12.12,"",,2008,0.289,"",,2008,1.254,"",,2008,13.66,"",,2008,455.5,"K",
+"1960-2015","Puerto Rico","World | Americas",2005,0.0738,"",,2005,0.0169,"",,2005,0.9043,"",,2005,0.995,"",,2005,266.1,"K",
+"1960-2015","Saint Kitts and Nevis","World | Americas",2012,2.0E-4,"I",,2012,0.0,"I",,2012,0.0154,"I",,2012,0.0156,"I",,2012,288.9,"K",
+"1960-2015","Saint Lucia","World | Americas",2007,0.0304,"I",,2007,0.0,"I",,2007,0.0125,"I",,2007,0.0429,"I",,2007,252.4,"K",
+"1960-2015","Saint Vincent and the Grenadines","World | Americas",2013,0.0,"I",,2013,2.0E-6,"",,2013,0.0085,"I",,2013,0.0085,"I",,2013,77.98,"K",
+"1960-2015","Suriname","World | Americas",2006,0.4311,"L","[56]",2006,0.1355,"",,2006,0.0493,"",,2006,0.6159,"",,2006,1208.0,"K",
+"1960-2015","Trinidad and Tobago","World | Americas",2011,0.0167,"I",,2011,0.1289,"I",,2011,0.2376,"I",,2011,0.3832,"I",,2011,286.6,"K",
+"1960-2015","United States of America","World | Americas",2005,192.4,"",,2005,220.6,"",,2005,65.44,"",,2005,478.4,"",,2005,1575.0,"K",
+"1960-2015","Uruguay","World | Americas",2000,3.17,"",,2000,0.08,"",,2000,0.41,"",,2000,3.66,"",,2000,1100.0,"K",
+"1960-2015","Venezuela (Bolivarian Republic of)","World | Americas",2008,16.71,"L","[57]",2005,0.7933,"L",,2005,5.123,"L",,2007,22.63,"I",,2007,818.3,"K",
+"1960-2015","Afghanistan","World | Asia",1998,20.0,"",,2005,0.1695,"L",,2005,0.2034,"L",,2000,20.28,"I",,2000,913.4,"K",
+"1960-2015","Armenia","World | Asia",2010,1.153,"",,2006,0.125,"I",,2006,0.843,"I",,2012,2.941,"",,2012,990.6,"K",
+"1960-2015","Azerbaijan","World | Asia",2010,10.1,"",,2005,2.36,"",,2005,0.521,"",,2012,11.97,"",,2012,1286.0,"K",
+"1960-2015","Bahrain","World | Asia",2003,0.1592,"",,2003,0.0203,"",,2003,0.1779,"",,2003,0.3574,"",,2003,346.3,"K",
+"1960-2015","Bangladesh","World | Asia",2008,31.5,"","[58]",2008,0.77,"",,2008,3.6,"","[59]",2008,35.87,"",,2008,231.9,"K",
+"1960-2015","Bhutan","World | Asia",2008,0.318,"",,2008,0.003,"",,2008,0.017,"",,2008,0.338,"",,2008,455.5,"K",
+"1960-2015","Brunei Darussalam","World | Asia",1995,0.0053,"L","[60]",,,"",,2009,0.1515,"E",,1994,0.092,"",,1994,296.8,"K",
+"1960-2015","Cambodia","World | Asia",2006,2.053,"",,2006,0.033,"",,2006,0.098,"",,2006,2.184,"",,2006,158.9,"K",
+"1960-2015","China","World | Asia",2005,358.0,"",,2005,128.6,"",,2005,67.53,"",,2005,554.1,"",,2005,406.0,"K",
+"1960-2015","Democratic People's Republic of Korea","World | Asia",2005,6.61,"L",,2005,1.145,"L",,2005,0.9028,"L",,2005,8.658,"L",,2005,359.1,"K",
+"1960-2015","Georgia","World | Asia",2005,1.055,"","[61]",2005,0.4,"I",,2005,0.358,"","[62]",2008,1.823,"",,2008,418.3,"K",
+"1960-2015","India","World | Asia",2010,688.0,"",,2010,17.0,"",,2010,56.0,"",,2010,761.0,"",,2010,615.4,"K",
+"1960-2015","Indonesia","World | Asia",2000,92.76,"",,2005,24.65,"I",,2005,13.99,"I",,2000,113.3,"",,2000,526.9,"K",
+"1960-2015","Iran (Islamic Republic of)","World | Asia",2004,86.0,"",,2004,1.1,"",,2004,6.2,"",,2004,93.3,"",,2004,1299.0,"K",
+"1960-2015","Iraq","World | Asia",2000,52.0,"",,2000,9.7,"",,2000,4.3,"",,2000,66.0,"",,2000,2615.0,"K",
+"1960-2015","Israel","World | Asia",2009,1.016,"",,2004,0.113,"",,2004,0.712,"",,2004,1.954,"",,2004,282.0,"K",
+"1960-2015","Japan","World | Asia",2009,54.43,"E","[63]",2009,11.61,"E","[64]",2009,15.41,"E","[65]",2009,81.45,"E",,2009,640.1,"E",
+"1960-2015","Jordan","World | Asia",2005,0.6112,"",,2005,0.0384,"",,2005,0.2913,"",,2005,0.9409,"",,2005,166.4,"K",
+"1960-2015","Kazakhstan","World | Asia",2010,14.0,"","[66]",2010,6.263,"","[67]",2010,0.878,"","[68]",2010,21.14,"",,2010,1299.0,"K",
+"1960-2015","Kuwait","World | Asia",2002,0.4919,"",,2005,0.0233,"L",,2005,0.4483,"L",,2002,0.9132,"",,2002,445.9,"K",
+"1960-2015","Kyrgyzstan","World | Asia",2011,7.1,"",,2006,0.336,"",,2006,0.224,"",,2006,8.007,"",,2006,1560.0,"K",
+"1960-2015","Lao People's Democratic Republic","World | Asia",2005,3.193,"L","[69]",2003,0.17,"L",,2003,0.13,"L",,2005,3.493,"L",,2005,580.9,"K",
+"1960-2015","Lebanon","World | Asia",2005,0.78,"",,2005,0.15,"",,2005,0.38,"",,2005,1.31,"",,2005,316.4,"K",
+"1960-2015","Malaysia","World | Asia",2005,2.505,"L","[70,71]",2005,4.788,"L",,2005,3.902,"L",,2005,11.2,"L",,2005,417.7,"K",
+"1960-2015","Maldives","World | Asia",2008,0.0,"I",,2008,3.0E-4,"I",,2008,0.0056,"I","[72,73]",2008,0.0059,"I","[74]",2008,17.46,"K",
+"1960-2015","Mongolia","World | Asia",2009,0.242,"",,2009,0.238,"",,2009,0.071,"",,2009,0.551,"",,2009,197.1,"K",
+"1960-2015","Myanmar","World | Asia",2000,29.57,"",,2005,0.4984,"L",,2000,3.323,"",,2000,33.23,"",,2000,674.6,"K",
+"1960-2015","Nepal","World | Asia",2006,9.32,"L","[75]",2005,0.0295,"L",,2005,0.1476,"L",,2006,9.497,"L",,2006,366.0,"K",
+"1960-2015","Occupied Palestinian Territory","World | Asia",2005,0.189,"",,2005,0.029,"",,2005,0.2,"",,2005,0.418,"",,2005,112.2,"K",
+"1960-2015","Oman","World | Asia",2003,1.168,"",,2003,0.019,"",,2003,0.134,"",,2003,1.321,"",,2003,514.0,"K",
+"1960-2015","Pakistan","World | Asia",2008,172.4,"",,2008,1.4,"E",,2008,9.65,"E",,2008,183.5,"K",,2008,1024.0,"K",
+"1960-2015","Papua New Guinea","World | Asia",2005,0.001,"L",,2005,0.1676,"L",,2005,0.2235,"L",,2005,0.3921,"L",,2005,61.28,"K",
+"1960-2015","Philippines","World | Asia",2009,67.07,"",,2009,8.254,"",,2009,6.235,"",,2009,81.56,"",,2009,843.4,"K",
+"1960-2015","Qatar","World | Asia",2005,0.262,"","[76]",2005,0.008,"",,2005,0.174,"","[77]",2005,0.444,"",,2005,385.4,"K",
+"1960-2015","Republic of Korea","World | Asia",2003,15.96,"E",,2002,4.45,"E",,2005,6.924,"E","[78]",2005,29.2,"E",,2005,613.8,"E",
+"1960-2015","Saudi Arabia","World | Asia",2006,20.83,"E",,2006,0.71,"E",,2006,2.13,"E",,2006,23.67,"E",,2006,913.3,"E",
+"1960-2015","Singapore","World | Asia",1975,0.0076,"",,2005,1.221,"L",,2005,1.078,"L",,1975,0.19,"",,1975,81.97,"K",
+"1960-2015","Sri Lanka","World | Asia",2005,11.31,"",,2005,0.831,"",,2005,0.805,"",,2005,12.95,"",,2005,637.9,"K",
+"1960-2015","Syrian Arab Republic","World | Asia",2003,14.67,"",,2005,0.6154,"L",,2005,1.475,"L",,2005,16.76,"I",,2005,856.8,"K",
+"1960-2015","Tajikistan","World | Asia",2006,10.44,"",,2006,0.4078,"",,2006,0.647,"",,2006,11.49,"",,2006,1616.0,"K",
+"1960-2015","Thailand","World | Asia",2007,51.79,"",,2007,2.777,"",,2007,2.739,"",,2007,57.31,"",,2007,867.3,"K",
+"1960-2015","Timor-Leste","World | Asia",2004,1.071,"",,2004,0.002,"",,2004,0.099,"",,2004,1.172,"",,2004,1131.0,"K",
+"1960-2015","Turkey","World | Asia",2008,34.0,"",,2003,4.3,"",,2003,6.2,"",,2003,40.1,"",,2003,577.0,"K",
+"1960-2015","Turkmenistan","World | Asia",2004,26.36,"",,2004,0.839,"",,2004,0.755,"",,2004,27.95,"",,2004,5753.0,"K",
+"1960-2015","United Arab Emirates","World | Asia",2005,3.312,"I",,2005,0.069,"I",,2005,0.617,"I",,2005,3.998,"I",,2005,689.7,"K",
+"1960-2015","Uzbekistan","World | Asia",2005,50.4,"",,2005,1.5,"",,2005,4.1,"",,2005,56.0,"",,2005,2100.0,"K",
+"1960-2015","Viet Nam","World | Asia",2005,77.75,"",,2005,3.074,"",,2005,1.206,"",,2005,82.03,"",,2005,947.7,"K",
+"1960-2015","Yemen","World | Asia",2005,3.235,"",,2005,0.065,"",,2005,0.265,"",,2005,3.565,"",,2005,168.3,"K",
+"1960-2015","Albania","World | Europe",2006,0.5176,"L","[79]",2005,0.2318,"L",,2005,0.5613,"L",,2006,1.311,"L",,2006,414.1,"K",
+"1960-2015","Andorra","World | Europe",,,"",,,,"",,,,"",,,,"",,,,"",
+"1960-2015","Austria","World | Europe",2002,0.1,"E",,2008,2.695,"E",,2008,0.608,"E","[80]",2002,3.657,"E",,2002,451.9,"E",
+"1960-2015","Belarus","World | Europe",2009,0.114,"",,2005,2.268,"L",,2005,1.134,"L",,2000,4.338,"L",,2000,440.3,"K",
+"1960-2015","Belgium","World | Europe",2009,0.04,"E",,2009,5.429,"E",,2009,0.707,"E","[81]",2009,6.176,"E",,2009,558.4,"E",
+"1960-2015","Bosnia and Herzegovina","World | Europe",,,"",,2008,0.0488,"E",,2002,0.3218,"E",,2012,0.329,"",,2012,85.81,"K",
+"1960-2015","Bulgaria","World | Europe",2009,0.996,"E",,2009,4.145,"E",,2009,0.978,"E",,2009,6.119,"E",,2009,840.8,"E",
+"1960-2015","Croatia","World | Europe",2010,0.0086,"",,2009,0.086,"E",,2009,0.534,"E",,2010,0.6286,"K",,2010,145.9,"K",
+"1960-2015","Cyprus","World | Europe",2009,0.159,"E",,2009,0.006,"I",,2009,0.019,"E",,2009,0.184,"E",,2009,163.0,"E",
+"1960-2015","Czech Republic","World | Europe",2012,0.043,"E","[82]",2012,1.161,"E",,2012,0.637,"E","[83]",2012,1.841,"E",,2012,172.7,"E",
+"1960-2015","Denmark","World | Europe",2012,0.164,"E","[84]",2012,0.128,"E",,2012,0.36,"E",,2012,0.652,"E",,2012,116.5,"E",
+"1960-2015","Estonia","World | Europe",2012,0.004,"E","[85]",2012,1.565,"E",,2012,0.062,"E","[86]",2012,1.631,"E",,2012,1263.0,"E",
+"1960-2015","Faroe Islands","World | Europe",,,"",,,,"",,,,"",,,,"",,,,"",
+"1960-2015","Finland","World | Europe",2005,0.05,"E","[87]",2006,6.103,"E",,2011,0.4,"E","[88]",2006,6.562,"E",,2006,1240.0,"E",
+"1960-2015","France","World | Europe",2009,3.143,"",,2010,24.48,"E",,2010,5.49,"E",,2010,33.11,"K",,2010,517.9,"K",
+"1960-2015","Germany","World | Europe",2010,0.211,"E","[89]",2010,27.75,"E",,2010,5.08,"E","[90]",2010,33.04,"E",,2010,399.0,"E",
+"1960-2015","Greece","World | Europe",2011,7.92,"E","[91]",2007,0.235,"E",,2011,1.29,"E","[92]",2007,9.539,"E",,2007,861.9,"E",
+"1960-2015","Holy See","World | Europe",,,"",,,,"",,,,"",,,,"",,,,"",
+"1960-2015","Hungary","World | Europe",2012,0.322,"E","[93]",2012,4.013,"E",,2012,0.716,"E",,2012,5.051,"E",,2012,506.3,"E",
+"1960-2015","Iceland","World | Europe",2005,0.07,"E",,2005,0.014,"E",,2005,0.081,"E",,2005,0.165,"E",,2005,541.0,"E",
+"1960-2015","Ireland","World | Europe",1994,0.179,"E",,2007,0.051,"E",,2012,0.628,"E","[94]",2009,0.757,"E",,2009,165.4,"E",
+"1960-2015","Italy","World | Europe",2007,12.89,"L","[95]",2000,16.29,"L",,2008,9.095,"E",,2008,53.75,"E",,2008,882.8,"E",
+"1960-2015","Latvia","World | Europe",2007,0.051,"E",,2005,0.173,"E",,2000,0.16,"L",,2002,0.418,"K",,2002,180.4,"K",
+"1960-2015","Liechtenstein","World | Europe",,,"",,,,"",,,,"",,,,"",,,,"",
+"1960-2015","Lithuania","World | Europe",2009,0.079,"E",,2005,2.14,"E",,2005,0.156,"E",,2007,2.378,"E",,2007,745.5,"E",
+"1960-2015","Luxembourg","World | Europe",2012,2.0E-4,"E","[96]",2012,0.0038,"E",,2012,0.041,"E","[97]",2012,0.045,"E",,2012,85.88,"E",
+"1960-2015","Malta","World | Europe",2009,0.019,"E",,2000,5.0E-4,"L",,2005,0.0344,"E",,2002,0.0539,"K",,2002,131.5,"K",
+"1960-2015","Monaco","World | Europe",2009,0.0,"E",,2009,0.0,"E",,2009,0.005,"E",,2009,0.005,"E",,2009,131.6,"E",
+"1960-2015","Montenegro","World | Europe",2010,0.0017,"",,2008,0.0628,"E",,2008,0.0964,"E",,2010,0.1609,"K",,2010,259.1,"K",
+"1960-2015","Netherlands","World | Europe",2010,0.122,"E","[98]",2010,9.329,"E",,2010,1.217,"E","[99]",2010,10.67,"E",,2010,638.4,"E",
+"1960-2015","Norway","World | Europe",2006,0.845,"E",,2006,1.261,"E",,2006,0.833,"E",,2006,2.939,"E",,2006,622.5,"E",
+"1960-2015","Poland","World | Europe",2012,1.102,"E","[100]",2012,8.347,"E",,2012,2.031,"E","[101]",2012,11.48,"E",,2012,300.4,"E",
+"1960-2015","Portugal","World | Europe",1998,8.767,"E",,1998,1.497,"E",,2009,0.934,"E","[102]",2007,9.151,"E",,2007,866.9,"E",
+"1960-2015","Republic of Moldova","World | Europe",2010,0.039,"",,2005,0.8825,"L",,2005,0.146,"L",,2007,1.065,"I",,2007,290.0,"K",
+"1960-2015","Romania","World | Europe",2009,1.171,"E",,2009,4.2,"E",,2009,1.505,"E",,2009,6.876,"E",,2009,316.1,"E",
+"1960-2015","Russian Federation","World | Europe",2001,13.2,"",,2001,39.6,"","[103]",2001,13.4,"",,2001,66.2,"",,2001,454.9,"K",
+"1960-2015","San Marino","World | Europe",,,"",,,,"",,,,"",,,,"",,,,"",
+"1960-2015","Serbia","World | Europe",2009,0.077,"E",,2009,3.361,"E",,2009,0.683,"E",,2009,4.121,"E",,2009,431.4,"E",
+"1960-2015","Slovakia","World | Europe",2010,0.0178,"E",,2007,0.346,"E",,2007,0.32,"E",,2007,0.688,"E",,2007,127.3,"E",
+"1960-2015","Slovenia","World | Europe",2012,0.0023,"E","[104]",2012,0.7636,"E",,2012,0.169,"E","[105]",2012,0.9349,"E",,2012,452.1,"E",
+"1960-2015","Spain","World | Europe",2010,21.3,"E","[106]",2010,6.894,"E",,2010,5.35,"E","[107]",2010,33.54,"E",,2010,717.4,"E",
+"1960-2015","Sweden","World | Europe",2010,0.098,"E","[108]",2010,1.684,"E",,2010,0.908,"E","[109]",2010,2.69,"E",,2010,282.8,"E",
+"1960-2015","Switzerland","World | Europe",2012,0.2,"E","[110]",2012,1.062,"E",,2012,0.721,"E","[111]",2012,1.983,"E",,2012,248.0,"E",
+"1960-2015","The former Yugoslav Republic of Macedonia","World | Europe",2007,0.126,"E",,2005,0.685,"E",,2005,0.217,"E",,2007,1.028,"E",,2007,490.2,"E",
+"1960-2015","Ukraine","World | Europe",2010,1.377,"",,2005,13.44,"L",,2005,4.614,"L",,2005,19.24,"I",,2005,412.4,"K",
+"1960-2015","United Kingdom","World | Europe",2011,0.993,"E",,2011,3.504,"E",,2011,6.333,"E",,2011,10.83,"E",,2011,171.8,"E",
+"1960-2015","Australia","World | Oceania",2013,12.97,"",,2013,2.519,"",,2013,4.259,"","[112]",2013,19.75,"",,2013,846.1,"K",
+"1960-2015","Cook Islands","World | Oceania",,,"",,,,"",,,,"",,,,"",,,,"",
+"1960-2015","Fiji","World | Oceania",2000,0.05,"L",,2005,0.0096,"I",,2005,0.0253,"I",,2000,0.0817,"I",,2000,100.1,"K",
+"1960-2015","Kiribati","World | Oceania",,,"",,,,"",,,,"",,,,"",,,,"",
+"1960-2015","Marshall Islands","World | Oceania",,,"",,,,"",,,,"",,,,"",,,,"",
+"1960-2015","Micronesia (Federated States of)","World | Oceania",,,"",,,,"",,,,"",,,,"",,,,"",
+"1960-2015","Nauru","World | Oceania",,,"",,,,"",,,,"",,,,"",,,,"",
+"1960-2015","New Zealand","World | Oceania",2010,3.207,"E","[113]",2010,1.184,"E",,2010,0.81,"E","[114]",2010,5.201,"E",,2010,1166.0,"E",
+"1960-2015","Niue","World | Oceania",,,"",,,,"",,,,"",,,,"",,,,"",
+"1960-2015","Palau","World | Oceania",,,"",,,,"",,,,"",,,,"",,,,"",
+"1960-2015","Samoa","World | Oceania",,,"",,,,"",,,,"",,,,"",,,,"",
+"1960-2015","Solomon Islands","World | Oceania",,,"",,,,"",,,,"",,,,"",,,,"",
+"1960-2015","Tokelau","World | Oceania",,,"",,,,"",,,,"",,,,"",,,,"",
+"1960-2015","Tonga","World | Oceania",,,"",,,,"",,,,"",,,,"",,,,"",
+"1960-2015","Tuvalu","World | Oceania",,,"",,,,"",,,,"",,,,"",,,,"",
+"1960-2015","Vanuatu","World | Oceania",,,"",,,,"",,,,"",,,,"",,,,"",
+
+
+Metadata:
+"[1] [Components] | Irrigation water withdrawal only"
+"[2] [Components] | Irrigation water withdrawal only"
+"[3] [Components] | 0.029 irrigation & forestry + 0.045 livestock + 0.006 wildlife"
+"[4] [Components] | Irrigation water withdrawal only"
+"[5] [Components] | Irrigation water withdrawal only"
+"[6] [Reference period] | Data actually from 1987"
+"[7] [Components] | Irrigation water withdrawal only"
+"[8] [Reference period] | Data actually from 2002"
+"[9] [Components] | Irrigation water withdrawal only"
+"[10] [Components] | Irrigation water withdrawal only"
+"[11] [Reference period] | Data actually from 2000"
+"[12] [Components] | Irrigation water withdrawal only"
+"[13] [Components] | 0.0025 irrigation + 0.0005 élevage"
+"[14] [Components] | Does not include hydropower and navigation. 'In-stream water usage by hydropower plants' is 4 km3 in 2000 (Source 5996: 'FAO. 2005. Irrigation in Africa in figures: AQUASTAT Survey 2005. Water Reports No. 29')."
+"[15] [Components] | Irrigation water withdrawal only"
+"[16] [Reference period] | Data actually from 2000"
+"[17] [Components] | Irrigation water withdrawal only"
+"[18] [Components] | Irrigation water withdrawal only"
+"[19] [Components] | Irrigation water withdrawal only"
+"[20] [Components] | Irrigation water withdrawal only"
+"[21] [Components] | Irrigation water withdrawal only"
+"[22] [Reference period] | Data actually from 2002"
+"[23] [Components] | Irrigation water withdrawal only"
+"[24] [Components] | 0.046 in rural area and semi-urban and 0.061 in urban area"
+"[25] [Components] | Irrigation water withdrawal only"
+"[26] [Components] | Irrigation water withdrawal only"
+"[27] [Components] | Mining only"
+"[28] [Components] | Including industry and tourism"
+"[29] [Components] | Irrigation water withdrawal only"
+"[30] [Components] | The main part is due to COMINAK, SOMAÎR and SONICHA"
+"[31] [Components] | Irrigation water withdrawal only"
+"[32] [Components] | Irrigation water withdrawal only"
+"[33] [Reference period] | Data actually from 1992"
+"[34] [Components] | Irrigation 993 + livestock 13"
+"[35] [Overall accuracy] | Water withdrawal were known only by sources: estimation by sector were calculated using a 2010 distribution of 80% by agriculture, 14% by municipalities, 5% by iindustries and 1% by tourism from FAO, BPEH (2014, see profile for full reference)"
+"[36] [Overall accuracy] | Water withdrawal were known only by sources: estimation by sector were calculated using a 2010 distribution of 80% by agriculture, 14% by municipalities, 5% by iindustries and 1% by tourism from FAO, BPEH (2014, see profile for full reference)"
+"[37] [Components] | Including 0.033 of water withdrawn by the tourism sector"
+"[38] [Overall accuracy] | Water withdrawal were known only by sources: estimation by sector were calculated using a 2010 distribution of 80% by agriculture, 14% by municipalities, 5% by iindustries and 1% by tourism from FAO, BPEH (2014, see profile for full reference)"
+"[39] [Reference Area] | Mainlandequals4.624;  Zanzibarequals0.042"
+"[40] [Reference Area] | Mainlandequals0.493, Zanzibarequals0.043"
+"[41] [Components] | Irrigation water withdrawal only"
+"[42] [Components] | Including irrigation and stock watering"
+"[43] [Components] | Irrigation water withdrawal only"
+"[44] [Reference period] | Data actually from 1989"
+"[45] [Overall accuracy] | Estimated data by the water balance model used in the 2012 Agricultural water use exercise. Canada Statistics declare 0.838 (2010), but the resulting water requirement ratio was incoherent (304%). This is certainly due to the model using the long-term average precipitations and assuming that crop optimal growth. So estimated value is a maximum value especially if precipitations are higher than the average (supplemental irrigation only)."
+"[46] [Components] | Irrigation water withdrawal only"
+"[47] [Components] | Industrial: 1.577 + thermoelectric 0.665"
+"[48] [Components] | 0. 528 km3 correspond to institutions withdrawal (hospitals, schools, universities, hoteles) and 2.606 km3 correspond to domestic withdrawal"
+"[49] [Observations] | In addition, there is an environmental flow (gasto ecologico) of 395 million m3 (not included in total withdrawal), which has to be taken into consideration"
+"[50] [Reference period] | Data actually from 2000"
+"[51] [Components] | Irrigation water withdrawal only"
+"[52] [Components] | 1.786 for Irrigation and Livestock + 0.52 for hunting and forestry + 0.383 for fisheries"
+"[53] [Components] | Irrigation water withdrawal only"
+"[54] [Components] | Irrigation water withdrawal only"
+"[55] [Components] | It doesn's include 0.3 km3 of hydroelectric use"
+"[56] [Components] | Irrigation water withdrawal only"
+"[57] [Components] | Irrigation water withdrawal only"
+"[58] [Components] | Surface water 6.62 km3/yr + groundwater 24.88 km3/yr"
+"[59] [Components] | Surface water 0.40 km3/yr + groundwater 3.2 km3/yr"
+"[60] [Components] | Irrigation water withdrawal only"
+"[61] [Components] | Irrigation 0,867 + Agriculture water supply 0,188"
+"[62] [Components] | Household and drinking purposes"
+"[63] [Components] | Surface water accounts for 51.564 km3 and groundwater accounts for 2.866 km3 of the total agricultural withdrawal"
+"[64] [Components] | Surface water accounts for 8.358 km3 and groundwater accounts for 3.251 km3 of the total industrial withdrawal"
+"[65] [Components] | Surface water accounts for 12.16 km3 and groundwater accounts for 3.254 km3 of the total municipal withdrawal"
+"[66] [Adjustment] | Water losses in transport (3.057) have been distributed between the 3 sectors.  2.770 km3 of Other uses are not included (considered as very low consumptive uses)"
+"[67] [Adjustment] | Water losses in transport (3.057) have been distributed between the 3 sectors.  2.770 km3 of Other uses are not included (considered as very low consumptive uses)"
+"[68] [Adjustment] | Water losses in transport (3.057) have been distributed between the 3 sectors.  2.770 km3 of Other uses are not included (considered as very low consumptive uses)"
+"[69] [Components] | Irrigation water withdrawal only"
+"[70] [Reference period] | Data actually from 1996"
+"[71] [Components] | Irrigation water withdrawal only"
+"[72] [Overall accuracy] | Figure does not include requirements of an estimated 500 000 tourists who visit Maldives per year"
+"[73] [Components] | Does not include water used by an estimated 500 000 tourists visiting Maldives per year"
+"[74] [Overall accuracy] | Many people collect and store rainwater for their use, which is also not included in this amounts"
+"[75] [Components] | Irrigation water withdrawal only"
+"[76] [Components] | Including irrigation of landscape"
+"[77] [Components] | 99% desalinated water + 1% groundwater"
+"[78] [Components] | Surface water accounts for 6.86 km3 and groundwater accounts for 0.064 km3 of the total municipal withdrawal"
+"[79] [Components] | Irrigation water withdrawal only"
+"[80] [Components] | Surface water accounts for 0.001 km3 and groundwater accounts for 0.607 km3 of the total municipal withdrawal"
+"[81] [Components] | Surface water accounts for 0.249 km3 and groundwater accounts for 0.458 km3 of the total municipal withdrawal"
+"[82] [Components] | Surface water accounts for 0.031 km3 and groundwater accounts for 0.012 km3 of the total agricultural withdrawal"
+"[83] [Components] | Surface water accounts for 0.327 km3 and groundwater accounts for 0.31 km3 of the total municipal withdrawal"
+"[84] [Components] | Surface water accounts for 0.003 km3 and groundwater accounts for 0.161 km3 of the total agricultural withdrawal"
+"[85] [Components] | Groundwater represents 100% of the agricultural water withdrawal"
+"[86] [Components] | Surface water accounts for 0.028 km3 and groundwater accounts for 0.034 km3 of the total municipal withdrawal"
+"[87] [Components] | Surface water accounts for 0.04 km3 and groundwater accounts for 0.01 km3 of the total agricultural withdrawal"
+"[88] [Components] | Surface water accounts for 0.16 km3 and groundwater accounts for 0.24 km3 of the total municipal withdrawal"
+"[89] [Components] | Surface water accounts for 0.054 km3 and groundwater accounts for 0.157 km3 of the total agricultural withdrawal"
+"[90] [Components] | Surface water accounts for 1.55 km3 and groundwater accounts for 3.53 km3 of the total municipal withdrawal"
+"[91] [Components] | Surface water accounts for 3.58 km3 and groundwater accounts for 4.34 km3 of the total agricultural withdrawal"
+"[92] [Components] | Surface water accounts for 0.6 km3 and groundwater accounts for 0.69 km3 of the total municipal withdrawal"
+"[93] [Components] | Surface water accounts for 0.264 km3 and groundwater accounts for 0.058 km3 of the total agricultural withdrawal"
+"[94] [Components] | Surface water accounts for 0.527 km3 and groundwater accounts for 0.101 km3 of the total municipal withdrawal"
+"[95] [Components] | Irrigation water withdrawal only"
+"[96] [Components] | Groundwater represents 100% of the irrigation water withdrawal"
+"[97] [Components] | Surface water accounts for 0.021 km3 and groundwater accounts for 0.02 km3 of the total municipal withdrawal"
+"[98] [Components] | Surface water accounts for 0.032 km3 and groundwater accounts for 0.09 km3 of the total agricultural withdrawal"
+"[99] [Components] | Surface water accounts for 0.456 km3 and groundwater accounts for 0.761 km3 of the total municipal withdrawal"
+"[100] [Components] | Surface water represents 100% of the agricultural water withdrawal"
+"[101] [Components] | Surface water accounts for 0.601 km3 and groundwater accounts for 1.43 km3 of the total municipal withdrawal"
+"[102] [Components] | Surface water accounts for 0.611 km3 and groundwater accounts for 0.323 km3 of the total municipal withdrawal"
+"[103] [Components] | Including 30.8 km3 of power plants"
+"[104] [Components] | Surface water accounts for 0.002 km3 and groundwater accounts for 0.0003 km3 of the total agricultural withdrawal"
+"[105] [Components] | Surface water accounts for 0.046 km3 and groundwater accounts for 0.123 km3 of the total municipal withdrawal"
+"[106] [Components] | Surface water accounts for 16.5 km3 and groundwater accounts for 4.8 km3 of the total agricultural withdrawal"
+"[107] [Components] | Surface water accounts for 3.76 km3 and groundwater accounts for 1.6 km3 of the total municipal withdrawal"
+"[108] [Components] | Surface water accounts for 0.05 km3 and groundwater accounts for 0.048 km3 of the total agricultural withdrawal"
+"[109] [Components] | Surface water accounts for 0.708 km3 and groundwater accounts for 0.2 km3 of the total municipal withdrawal"
+"[110] [Components] | Surface water accounts for 0.128 km3 and groundwater accounts for 0.072 km3 of the total agricultural withdrawal"
+"[111] [Components] | Surface water accounts for 0.154 km3 and groundwater accounts for 0.567 km3 of the total municipal withdrawal"
+"[112] [Components] | Includes 1.851 (household) + 2.408 (Industry- water supply). Does not include 0.151 km3 of household rainwater tanks."
+"[113] [Components] | Surface water accounts for 2.176 km3 and groundwater accounts for 1.031 km3 of the total agricultural withdrawal"
+"[114] [Components] | Surface water accounts for 0.44 km3 and groundwater accounts for 0.37 km3 of the total municipal withdrawal"
+
+E - External data
+I - AQUASTAT estimate
+K - Aggregate data
+L - Modelled data
+(c) 2015 FAO of the UN
+The information contained in AQUASTAT is provided free of charge to all users. Please quote as follows:
+FAO. 2015. AQUASTAT database - Food and Agriculture Organization of the United Nations (FAO). Website accessed on[30/07/2015 19:33]
+
