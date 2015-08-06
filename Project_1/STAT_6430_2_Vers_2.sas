@@ -66,12 +66,15 @@ PROC PRINT AquaUsage;
 RUN;
 
 PROC CONTENTS DATA = AquaUsage;
+	TITLE 'Contents of the dataset AquaUsage';
+RUN;
+
 PROC PRINT DATA = AquaUsage (FIRSTOBS=200);
 RUN;
 
-/* Question 2) Import and prepare population data.
+/* Problem 2) Import and prepare population data.
 
-Question 2.A) Impor the population data into SAS
+Problem 2.A) Import the population data into SAS
 
 */
 
@@ -95,7 +98,7 @@ Run;*/
 PROC PRINT DATA = PopStat_raw (FIRSTOBS = 4080);
 RUN;
 
-*B. Only keep GDP, GDP per capita, Agriculture value added, and total population.;
+*Problem 2.B) Only keep GDP, GDP per capita, Agriculture value added, and total population.;
 DATA PopStat;
 	SET Work.PopStat_raw (OBS = 4085 WHERE = (Series_Code IN ("SP.POP.TOTL", 
 												"NV.AGR.TOTL.ZS", 
@@ -106,7 +109,7 @@ Run;
 PROC CONTENTS DATA = PopStat POSITION;
 RUN;
 
-*C Keep only name of the statistic, the country name, the country code, and the value of the statistic;
+*Problem 2.C) Keep only name of the statistic, the country name, the country code, and the value of the statistic;
 DATA PopStat (RENAME = (_2014__YR2014_ = Value));
 	SET Work.PopStat (DROP = Series_Name);
 RUN;
@@ -120,7 +123,7 @@ RUN;
 PROC PRINT DATA = PopStat (FIRSTOBS = 850);
 RUN;
 	
-*D Transposing the Data;
+*Problem 2.D) Transposing the Data;
 * First we need to sort the data by Country Name and Code;
 PROC SORT DATA = PopStat;
 	BY Country_Name Country_Code;
@@ -165,14 +168,21 @@ DATA PopStat (RENAME = (SP_POP_TOTL = Total_Population
 		   NY_GDP_PCAP_CD Dollar17.2
 		   NY_GDP_MKTP_CD Dollar17.2
 		   SP_POP_TOTL Comma17.;
-*Labels can be added here;
+		   /*
+	LABEL ValueAdd_Agri = 'Agriculture, value added (% of GDP) Agriculture corresponds to ISIC division 1-5 and includes forestry, hunting, and fishing, as well as cultivation of crops and livestock production. 
+						   Value added is the net output of a sector after adding up all outputs and subtracting intermediate inputs.'
+		  GDP = 'GDP at purchasers prices is the sum of gross value added by all resident producers in the economy plus and product taxes and minus any subsidies not included 
+		  	    in the value of the products'
+		  Total_Population = 'Total population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship - except for 
+		  				     refugees not permanently settled in the country of asylum, who are generally considerd part of the population of their country of origin.';
+*Labels can be added here; */
 RUN;
-
+PROC CONTENTS DATA = PopStat;
+	TITLE 'Contents of PopStat';
+RUN;
 TITLE "Population Statistics of Countries - Final Formatted";
 PROC PRINT DATA = PopStat(Firstobs = 200);
 RUN;
-
-*Q3. Combine the water and population datasets to create a single SAS dataset;
 
 /*
 Problem 3) Combine the water and population datasets to create a single SAS dataset that has one row per country.
@@ -338,7 +348,7 @@ DATA top_ten_muni;
 	IF CMISS(OF Muni_Withdrawl_Capita) THEN DELETE;
 RUN;
 PROC SORT DATA = top_ten_muni OUT = sorted_top_ten_muni;
-	BY Muni_Withdrawl_Capita;
+	BY DESCENDING Muni_Withdrawl_Capita;
 PROC PRINT DATA = sorted_top_ten_muni (OBS = 10 KEEP = Country_Name Muni_Withdrawl_Capita);
 	TITLE 'Top ten municipal withdrawl per capita Countries';
 RUN;
@@ -350,7 +360,7 @@ DATA top_ten_agri;
 	IF CMISS(OF Agr_Withdrawl_Capita) THEN DELETE;
 RUN;
 PROC SORT DATA = top_ten_agri OUT = sorted_top_ten_agri;
-	BY Agr_Withdrawl_Capita;
+	BY DESCENDING Agr_Withdrawl_Capita;
 PROC PRINT DATA = sorted_top_ten_agri (OBS = 10 KEEP = Country_Name Agr_Withdrawl_Capita);
 	TITLE 'Top ten agriculutral withdrawl per capita Countries';
 RUN;
@@ -363,7 +373,7 @@ DATA top_ten_indus;
 	IF CMISS(OF Muni_Withdrawl_Capita) THEN DELETE;
 RUN;
 PROC SORT DATA = top_ten_indus OUT = sorted_top_ten_indus;
-	BY Muni_Withdrawl_Capita;
+	BY DESCENDING Muni_Withdrawl_Capita;
 PROC PRINT DATA = sorted_top_ten_indus (OBS = 10 KEEP = Country_Name Muni_Withdrawl_Capita);
 	TITLE 'Top ten municipal withdrawl per capita Countries';
 RUN;
