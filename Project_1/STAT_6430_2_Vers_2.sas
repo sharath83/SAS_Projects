@@ -189,6 +189,12 @@ RUN;
 PROC SORT DATA=PopStat;
 	BY Country_Name;
 RUN;
+*Code below refers to section 3.C;
+
+DATA PopStat;
+	MODIFY PopStat;
+	IF Country_Name='United States' THEN Country_Name = 'United States of America';
+RUN;
 
 DATA combined_countries;
 	MERGE AquaUsage PopStat;
@@ -219,6 +225,7 @@ RUN;
 PROC SORT DATA=PopStat;
 	BY Country_Name;
 RUN;
+
 
 /*
 
@@ -267,6 +274,99 @@ RUN;
 
 PROBLEM 3.C) Don't worry about the other countries, but make sure that American Has the same name in both
 datasets then run the merge again. 
+
+Refer to code above for 3.C
+
+Problem 4) Create three new variables that give the agricultural, industrial, and municipal
+water withdrawal per capita. That is, add the variables we are interested in!
+
+*/
+
+DATA final_combined_data;
+	SET combined_countries;
+	Total_Withdrawl_Capita = Total_Withdrawl / Total_Population;
+	Agr_Withdrawl_Capita = Agr_Withdrawl / Total_Population;
+	Ind_Withdrawl_Capita = Ind_Withdrawl / Total_Population; 
+	Muni_Withdrawl_Capita = Muni_Withdrawl / Total_Population;
+	LABEL Total_Withdrawl_Capita = 'The Countries total population divided by their total water withdrawl'
+		  Agr_Withdrawl_Capita = 'The Countries total population divided by their agricultural withdrawl, to get withdrawl per capita'
+	      Ind_Withdrawl_Capita = 'The Countries total population divided by their industrial withdrawl, to get withdrawl per capita'
+		  Muni_Withdrawl_Capita = 'The countries total population divided by their municipal withdrawl, to get withdrawl per capita';
+RUN;
+
+PROC PRINT DATA=final_combined_data;
+	TITLE 'Combined data with Agricultural, Industrial, and Municipal withdrawl per capita variables';
+RUN;
+
+/*
+
+Problem 5) Export the final dataset as a csv file called FinalData.csv
+
+*/
+
+/*
+Problem 6) Summary
+
+Problem 6.A) Run PROC CONTENST to display the details of your final SAS dataset
+
+*/
+
+PROC CONTENTS DATA = final_combined_data;
+	TITLE 'Contents of dataset final_combined_data';
+RUN;
+
+/*
+Problem 6.B) Print out (to the results viewer) an ordered list of the top-10 water users per capita
+In order to accurately display the top ten observations, we need to delete the missing values so that
+it does not show up as our top ten. 
+*/
+DATA top_ten_real;
+	SET final_combined_data;
+	IF CMISS(OF Total_Withdrawl_Capita) THEN DELETE;
+RUN;
+PROC SORT DATA = top_ten_real OUT = top_ten_water_users;
+	BY Total_Withdrawl_Capita;
+PROC PRINT DATA = top_ten_water_users (OBS = 10 KEEP = Country_Name Total_Withdrawl_Capita);
+	TITLE 'Top Ten Countries of Water Users Per Capita';
+RUN;
+
+/*
+Problem 6.C) Print out an ordered list of the top-10 municipal water users per capita.
+*/
+DATA top_ten_muni;
+	SET final_combined_data;
+	IF CMISS(OF Muni_Withdrawl_Capita) THEN DELETE;
+RUN;
+PROC SORT DATA = top_ten_muni OUT = sorted_top_ten_muni;
+	BY Muni_Withdrawl_Capita;
+PROC PRINT DATA = sorted_top_ten_muni (OBS = 10 KEEP = Country_Name Muni_Withdrawl_Capita);
+	TITLE 'Top ten municipal withdrawl per capita Countries';
+RUN;
+/*
+Problem 6.D) Print out an ordered list of the top-10 agricultural water users per capita
+*/
+DATA top_ten_agri;
+	SET final_combined_data;
+	IF CMISS(OF Agr_Withdrawl_Capita) THEN DELETE;
+RUN;
+PROC SORT DATA = top_ten_agri OUT = sorted_top_ten_agri;
+	BY Agr_Withdrawl_Capita;
+PROC PRINT DATA = sorted_top_ten_agri (OBS = 10 KEEP = Country_Name Agr_Withdrawl_Capita);
+	TITLE 'Top ten agriculutral withdrawl per capita Countries';
+RUN;
+/*
+Problem 6.E) Print out an ordered list of the top-10 industrial wtaer users per capita
+*/
+
+DATA top_ten_indus;
+	SET final_combined_data;
+	IF CMISS(OF Muni_Withdrawl_Capita) THEN DELETE;
+RUN;
+PROC SORT DATA = top_ten_indus OUT = sorted_top_ten_indus;
+	BY Muni_Withdrawl_Capita;
+PROC PRINT DATA = sorted_top_ten_indus (OBS = 10 KEEP = Country_Name Muni_Withdrawl_Capita);
+	TITLE 'Top ten municipal withdrawl per capita Countries';
+RUN;
 
 
 
